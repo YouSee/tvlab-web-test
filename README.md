@@ -1,68 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TV labs web test
 
-## Available Scripts
+## Task
 
-In the project directory, you can run:
+Your task is to implement the navigation as displayed in the `Design` folder. It is a responsive design and the main focus of this task is implementing the correct layout and structure of the design. The exact colors and fonts are not essential to complete the task.
 
-### `npm start`
+The solution has to be completed as a pull towards towards this repository.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Structure
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The application is based on the `create-react-app` base (https://reactjs.org/docs/create-a-new-react-app.html), so there should be no need to modify any build settings (though you are welcome to, if desired). All source code is located in `src` and the necessary assets are located in `src/assets`.
 
-### `npm test`
+The current structure is meant to assist in being able to focus solely on the implementation of the design and it is advised to not change it in the interest of time.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Notes
 
-### `npm run build`
+Should you feel the need to provide extra information other than source code, you can create a new file called `notes.txt` in the root of the respository and add the information there.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Requirements
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1. The implementation must be done with Typescript (http://www.typescriptlang.org/)
+2. The styling must be carried out using styled-components (https://styled-components.com/)
+3. The solution must work in version 80 of `Chrome` (https://www.google.com/chrome/)
+4. The solution must be submitted as a pull request towards `master` at https://github.com/YouSee/tvlab-web-test
+5. (Optional) Notes must be added to `notes.txt` in the root
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Enjoy! 🦄
