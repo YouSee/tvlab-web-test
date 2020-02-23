@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>hero ICN home Copy 5@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="23.5" cy="23.5" r="23.5"></circle>
+        <linearGradient x1="8.12966992%" y1="76.5140533%" x2="84.832052%" y2="13.4193253%" id="linearGradient-3">
+            <stop stop-color="#C133C2" offset="0%"></stop>
+            <stop stop-color="#33B9C2" offset="28.3810177%"></stop>
+            <stop stop-color="#F2F6F5" offset="70.2649916%"></stop>
+            <stop stop-color="#DEDF60" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.50396585%" y1="91.9470491%" x2="111.293473%" y2="6.8877551%" id="linearGradient-4">
+            <stop stop-color="#2C5BFF" stop-opacity="0.713286713" offset="0%"></stop>
+            <stop stop-color="#FFFB88" stop-opacity="0.815434359" offset="39.3039983%"></stop>
+            <stop stop-color="#33B9C2" offset="68.8465462%"></stop>
+            <stop stop-color="#C133C2" stop-opacity="0.258741259" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-7.1%" y="-7.7%" width="114.3%" height="115.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-25.1363551%" y1="52.645397%" x2="108.187686%" y2="52.645397%" id="linearGradient-6">
+            <stop stop-color="#DEDF60" stop-opacity="0.713286713" offset="0%"></stop>
+            <stop stop-color="#00EFB2" offset="37.1621622%"></stop>
+            <stop stop-color="#33B9C2" offset="61.4864865%"></stop>
+            <stop stop-color="#A300C6" stop-opacity="0.258741259" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-7.5%" y="-7.5%" width="114.9%" height="114.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#D7EEE6" offset="0%"></stop>
+            <stop stop-color="#00EFB2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-/-top-/-normal" transform="translate(-79.000000, 1.000000)">
+            <g id="N1" transform="translate(72.000000, 0.000000)">
+                <g id="Hjem" transform="translate(8.000000, 0.000000)">
+                    <g id="hero-ICN-home-Copy-5">
+                        <g id="Oval-Copy-30">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill-opacity="0.5" fill="#0A0E28" xlink:href="#path-1"></use>
+                            <circle fill="url(#linearGradient-3)" opacity="0.285691034" mask="url(#mask-2)" cx="23.5" cy="23.5" r="23.5"></circle>
+                            <path d="M16.4659347,39.3569801 C26.8162435,38.0820422 41,35.4662916 41,26.7350954 C41,18.0038991 39.5939034,6.08060422 28.7329674,1.49132598 C17.8720313,-3.09795225 0.109891175,9.52343443 -0.912361546,22.1453191 C-1.93461427,34.7672038 6.11562591,40.6319179 16.4659347,39.3569801 Z" id="Oval" fill="url(#linearGradient-4)" opacity="0.5" filter="url(#filter-5)" mask="url(#mask-2)"></path>
+                            <path d="M30.1739899,41.587592 C40.6946627,40.3653627 45.7502735,29.4170688 45.7502735,19.9079613 C45.7502735,10.3988537 39.2148124,5.99998339 31.6871028,3.42729144 C28.5162689,2.34361803 20.9552219,0.7503297 16.0749911,2.2429798 C8.55300459,4.54362795 2.92268065,20.5151228 6.93283184,29.6371188 C10.942983,38.7591148 19.6533171,42.8098212 30.1739899,41.587592 Z" id="Oval-Copy-23" fill="url(#linearGradient-6)" opacity="0.3" filter="url(#filter-7)" mask="url(#mask-2)" transform="translate(25.675872, 21.717820) rotate(82.000000) translate(-25.675872, -21.717820) "></path>
+                        </g>
+                        <circle id="Oval" stroke="url(#linearGradient-8)" opacity="0.749325707" cx="23.5" cy="23.5" r="23.5"></circle>
+                        <circle id="Oval-Copy" stroke="#D7EEE6" opacity="0.749325707" cx="23.5" cy="23.5" r="23.5"></circle>
+                        <g id="icon_home_active" transform="translate(9.000000, 9.000000)" stroke="#D7EEE6">
+                            <path d="M8.5,3 L28,13.75 L28,26.620002 C28,27.347636 27.4179702,27.9375 26.7,27.9375 L13,27.9375 L13,19.9375 L8,19.9375 L8,27.9375 L3.3,27.9375 C2.58202983,27.9375 2,27.347636 2,26.620002 L2,9.3125 L8.5,3 Z M24,6.46875 L24,11.375 L20.78125,9.6875 L20.78125,6.46875 L24,6.46875 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

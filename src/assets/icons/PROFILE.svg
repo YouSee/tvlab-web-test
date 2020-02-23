@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-/-top-/-normal" transform="translate(-1373.000000, 0.000000)" stroke="#96B4C2">
+            <g id="Right-menu" transform="translate(1300.000000, 0.000000)">
+                <g id="Account" transform="translate(73.000000, 0.000000)">
+                    <g id="Mobile-/-Account">
+                        <g id="Account">
+                            <circle id="Oval" fill-opacity="0.2" fill="#01001C" cx="24" cy="24" r="23.5"></circle>
+                            <g id="White-/-Profile--" transform="translate(6.000000, 4.500000)" stroke-width="0.9">
+                                <path d="M7.2,30.6 C7.35506205,25.56 9.54680801,23.04 13.7752379,23.04 C15.2134706,23.04 16.7227211,23.04 18.201726,23.04 C20.1534429,23.04 21.5250294,23.04 23.2568316,23.04 C27.1858573,23.04 29.3335801,25.56 29.7,30.6" id="Path-5" stroke-linecap="round"></path>
+                                <ellipse id="Oval-3" cx="18.0173077" cy="12.54" rx="7.35576923" ry="7.14"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
