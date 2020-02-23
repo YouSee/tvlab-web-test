@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M30 15L20 25 10 15"/></svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M30 15L20 25 10 15"/></svg>
+>>>>>>> 4d513684e387a2eae87ca3e0151e1be1c4a43d35

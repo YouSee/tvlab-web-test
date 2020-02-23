@@ -391,16 +391,16 @@ export const HomeActive = () => (
         y2="6.8877551%"
         id="linearGradient-4"
       >
-        <stop stopColor="#2C5BFF" stopOpacity="0.713286713" offset="0%"></stop>
+        <stop stopColor="#2C5BFF" stop-opacity="0.713286713" offset="0%"></stop>
         <stop
           stopColor="#FFFB88"
-          stopOpacity="0.815434359"
+          stop-opacity="0.815434359"
           offset="39.3039983%"
         ></stop>
         <stop stopColor="#33B9C2" offset="68.8465462%"></stop>
         <stop
           stopColor="#C133C2"
-          stopOpacity="0.258741259"
+          stop-opacity="0.258741259"
           offset="100%"
         ></stop>
       </linearGradient>
@@ -424,12 +424,12 @@ export const HomeActive = () => (
         y2="52.645397%"
         id="linearGradient-6"
       >
-        <stop stopColor="#DEDF60" stopOpacity="0.713286713" offset="0%"></stop>
+        <stop stopColor="#DEDF60" stop-opacity="0.713286713" offset="0%"></stop>
         <stop stopColor="#00EFB2" offset="37.1621622%"></stop>
         <stop stopColor="#33B9C2" offset="61.4864865%"></stop>
         <stop
           stopColor="#A300C6"
-          stopOpacity="0.258741259"
+          stop-opacity="0.258741259"
           offset="100%"
         ></stop>
       </linearGradient>
