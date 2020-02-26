@@ -1,0 +1,3 @@
+Har ikke arbejdet med styled components før så min brug af det er måske helt forkert. Men synes det er et super spændende værktøj og et skønt fix til det BEM helvede jeg arbejder med nogengange. Muligheden for genbrug virker også fed.
+
+Er også typescript rookie. Men er stor fan af det!
